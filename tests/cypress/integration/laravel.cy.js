@@ -6,7 +6,7 @@ describe('Log-in as a user', () => {
             .should('not.exist');
     });
 
-    it('shows a section when logging in as a users', () => {
+    it('shows a section when logging in as a user', () => {
         cy.login({
             attributes: { name: 'Marcel' },
         });

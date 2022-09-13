@@ -119,7 +119,7 @@
         Do you want to learn more about testing your frontend?
     </p>
     <a href="https://github.com/beyondcode/laragone" rel="external" class="cta my-6">
-        Check out the Laragon repo on GitHub
+        Check out the Laragone repo on GitHub
     </a>
 </section>
 
