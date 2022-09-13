@@ -118,6 +118,9 @@
         This website is used as an example for UI and Component testing with Cypress.<br>
         Do you want to learn more about testing your frontend?
     </p>
+    <a href="https://github.com/beyondcode/laragone" rel="external" class="cta my-6">
+        Check out the Laragon repo on GitHub
+    </a>
 </section>
 
 <section id="swag" class="from-gray-200 to-white bg-gradient-to-br shadow-gray-100 relative shadow-xl"
