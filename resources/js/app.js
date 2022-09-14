@@ -121,7 +121,7 @@ Alpine.data('schedule', () => ({
 const speakerImage = document.querySelector('.speakerImage');
 
 Alpine.data('follow', () => ({
-    live: (+new Date()) > (+new Date('2022-09-14T00:00:00')),
+    live: false,
     movement(e) {
         let padding = 0;
         if (e.view?.innerWidth > 1920) {
